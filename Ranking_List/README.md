@@ -2,9 +2,9 @@
 
 # Idea
 The Ranking List's purpose is to add name entries into a ranking with their designated placement (for example 12.Phil). The entries are saved in a .txt file and are
-formatted accordingly.
+formatted accordingly.__
 In case a collision happens, say the user inputs 166.Robin, but there is already an entry at 166 (say 166.Mike), then Robin takes Mike's place as 166.Robin. Mike
-is shifted by one entry to 167.Mike. If there is also another entry at 167, Mike stays at 167 as 167.Mike, and the other entry gets shifted... and so on. (Insertion Sort Light)
+is shifted by one entry to 167.Mike. If there is also another entry at 167, Mike stays at 167 as 167.Mike, and the other entry gets shifted... and so on. (Insertion Sort Light)__
 With that, new entries with placements can be added freely everywhere in the list.
 
 # How to operate?
